@@ -19,7 +19,11 @@ h1{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 20px;
 }
 .titulo__seccion__principal{
     color: black;
+}
+img{
+    height: 200px;
 }
